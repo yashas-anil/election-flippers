@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "election-flippers",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
