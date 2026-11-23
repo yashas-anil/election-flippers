@@ -3,7 +3,7 @@ Can you flip any (US Presidential) Election just by moving people around?
 
 Due to the winner-take-all method of the Electoral College, a small margin of victory translates to 100% of the electoral value, in every state (except Maine and Nebraska). As such one can win the electoral college without winning the popular vote, as has occured in 1876, 1888, 2000 and 2016. 
 
-If you were a presidential candidate who lost the electoral college, could you look back on your election results and see how things could have gone your way, if only your voters were more strategically redistributed? That means maintaining the national popular vote and the location of everyone who voted against you, moving your own voters. 
+If you were a presidential candidate who lost the electoral college, could you look back on your election results and see how things could have gone your way, if only your voters were more strategically redistributed? That means maintaining the national popular vote and the location of everyone who voted against you, while only moving your own voters. 
 
 It's certainly possible for many close elections. In the 2024 election, for instance, you would need to move 232,766 Harris voters and redistribute them in Michigan, Wisconsin, and Pennsylvania to flip the election. My hypothesis is that it is possible to extend this logic to more lopsided results, from strong victories like 2012 to massive landslides like 1984. 
 
@@ -22,7 +22,7 @@ The **underflow method** takes your votes out of states you lost, sacrificing th
 
 ## elections of interest
 2024 - most recent
-2012,2008 - recent "landslides"
+2012, 2008 - recent "landslides"
 1992 - third party influence
-1984, 1972, 1964, 1932 - massive landslides
+1984, 1972, 1964, 1936 - massive landslides
 1912 - significant third party influence and landslide
